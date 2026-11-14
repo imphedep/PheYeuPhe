@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/a49544/-7HG6GmnRqFp_-YX"))()
+loadstring(game:HttpGet("https://vxezestudio.online/api/scripts/script_c7AYeBCGe0BCK/stream/init"))()
